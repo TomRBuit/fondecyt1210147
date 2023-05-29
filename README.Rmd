@@ -1,0 +1,27 @@
+---
+title: "README"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Fondecyt 1210147 
+Este repositorio tiene los datos del proyecto fondecyt hasta la fecha.
+
+###### Estos datos corresponden a:
+- Cortas de protección irregular (2021)
+- Cortas de selección (2021)
+- VDT Lumanto testigo (2022)
+- VDT Coihue testigo (2022)
+- Bosque adulto (2022)
+
+###### En el informe de avance, para cada rodal se presentará lo siguiente:
+- Tabla de VI general
+- Gráfico de distribución diámetrica t0 y t1
+- TR para las 3 spp prcpales
+- Resumen de las variables dasométricas por parcela (densidad, ab, v, dmc)
+- Boxplot de dispersión de variables dasom (AB, Vol, densidad y DMC) para las 3 spp prcpales.
+- Gráficos de regeneración por tolerancia
+
